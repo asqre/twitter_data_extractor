@@ -10,9 +10,10 @@ To run the script, make sure you have the following installed:
 ### Python
 ### Selenium library
 ### selenium webdriver for chrome (for making instance of chrome) : 
-					  go to selenium.org
- 					  install chrome driver (https://sites.google.com/chromium.org/driver/?pli=1) assuring the version must be match to your chrome version.
-										(you can check the version of chrome by going About chrome section in settings of chrome). 
+go to selenium.org
+install chrome driver (https://sites.google.com/chromium.org/driver/?pli=1) assuring the version must be match to your chrome version.
+(you can check the version of chrome by going About chrome section in settings of chrome). 
+
 ## Usage
 
 The script will launch a Chrome browser window and automatically log in to your Twitter account. It will then proceed to crawl the specified profiles one by one and extract the desired information, such as followers and the following list.
