@@ -21,7 +21,7 @@ The script will launch a Chrome browser window and automatically log in to your 
 The extracted data will be saved in separate CSV files for each profile, named username1_following_followers_datasSet.csv, username2_following_followers_datasSet.csv, and so on.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact us at [email protected]
+If you have any questions or suggestions, feel free to contact us at [amitanand.asqre@gmail.com]
 
 
 
